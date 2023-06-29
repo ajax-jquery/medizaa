@@ -1,0 +1,42 @@
+{
+  "short_name": "sophiainstitute",
+  "name": "Sophia Institute",
+  "description": "Sophia Institute merupakan komunitas epistemik dan nonprofit yang bergelut dalam bidang literasi dan kajian mendalam mengenai—kefilsafatan.",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjM-yy9e3BaCBmlFGQeRN7PXyZ41wEhX3aiJXqfeaB2gNEgB6GcMOmNmM-j4X_z085rqCam2blKDKrookMA8Kx_LL1QW3_roFqaYSqWouBrSCQ2xeFOOc9bkwJxDPK2xyzC_Fua9nyKsaAMF2xu2OYeidHSZ_JzlQxnQVwxt62gMF1JDwTo8OlHl2b1=s48",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjM-yy9e3BaCBmlFGQeRN7PXyZ41wEhX3aiJXqfeaB2gNEgB6GcMOmNmM-j4X_z085rqCam2blKDKrookMA8Kx_LL1QW3_roFqaYSqWouBrSCQ2xeFOOc9bkwJxDPK2xyzC_Fua9nyKsaAMF2xu2OYeidHSZ_JzlQxnQVwxt62gMF1JDwTo8OlHl2b1=s92",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjM-yy9e3BaCBmlFGQeRN7PXyZ41wEhX3aiJXqfeaB2gNEgB6GcMOmNmM-j4X_z085rqCam2blKDKrookMA8Kx_LL1QW3_roFqaYSqWouBrSCQ2xeFOOc9bkwJxDPK2xyzC_Fua9nyKsaAMF2xu2OYeidHSZ_JzlQxnQVwxt62gMF1JDwTo8OlHl2b1=s96",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjM-yy9e3BaCBmlFGQeRN7PXyZ41wEhX3aiJXqfeaB2gNEgB6GcMOmNmM-j4X_z085rqCam2blKDKrookMA8Kx_LL1QW3_roFqaYSqWouBrSCQ2xeFOOc9bkwJxDPK2xyzC_Fua9nyKsaAMF2xu2OYeidHSZ_JzlQxnQVwxt62gMF1JDwTo8OlHl2b1=s144",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjM-yy9e3BaCBmlFGQeRN7PXyZ41wEhX3aiJXqfeaB2gNEgB6GcMOmNmM-j4X_z085rqCam2blKDKrookMA8Kx_LL1QW3_roFqaYSqWouBrSCQ2xeFOOc9bkwJxDPK2xyzC_Fua9nyKsaAMF2xu2OYeidHSZ_JzlQxnQVwxt62gMF1JDwTo8OlHl2b1=s192",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjM-yy9e3BaCBmlFGQeRN7PXyZ41wEhX3aiJXqfeaB2gNEgB6GcMOmNmM-j4X_z085rqCam2blKDKrookMA8Kx_LL1QW3_roFqaYSqWouBrSCQ2xeFOOc9bkwJxDPK2xyzC_Fua9nyKsaAMF2xu2OYeidHSZ_JzlQxnQVwxt62gMF1JDwTo8OlHl2b1=s312",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#707070",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#052a49"
+}
